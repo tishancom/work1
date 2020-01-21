@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" baseProfile="tiny"  viewBox="0 0 3542 9952" version="1.2" width="0.3542in" y="0in" height="0.9952in">
+    <desc>
+        <referenceFile>shrouded_14_100mil_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="copper0">
+        <g gorn="0.0.0"  id="copper1">
+            <rect x="936" r="285" stroke="#ff9400" gorn="0.0.0.0"  id="square" fill="none" width="570" stroke-width="170" y="1691" height="570"/>
+            <circle r="285" cy="1976" stroke="#ff9400" gorn="0.0.0.1"  id="connector13pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="2976" stroke="#ff9400" gorn="0.0.0.2"  id="connector12pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="3976" stroke="#ff9400" gorn="0.0.0.3"  id="connector11pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="4976" stroke="#ff9400" gorn="0.0.0.4"  id="connector10pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="5976" stroke="#ff9400" gorn="0.0.0.5"  id="connector9pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="6976" stroke="#ff9400" gorn="0.0.0.6"  id="connector8pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="7976" stroke="#ff9400" gorn="0.0.0.7"  id="connector7pin" fill="none" cx="2221" stroke-width="170"/>
+            <circle r="285" cy="1976" stroke="#ff9400" gorn="0.0.0.8"  id="connector0pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="2976" stroke="#ff9400" gorn="0.0.0.9"  id="connector1pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="3976" stroke="#ff9400" gorn="0.0.0.10"  id="connector2pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="4976" stroke="#ff9400" gorn="0.0.0.11"  id="connector3pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="5976" stroke="#ff9400" gorn="0.0.0.12"  id="connector4pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="6976" stroke="#ff9400" gorn="0.0.0.13"  id="connector5pin" fill="none" cx="1221" stroke-width="170"/>
+            <circle r="285" cy="7976" stroke="#ff9400" gorn="0.0.0.14"  id="connector6pin" fill="none" cx="1221" stroke-width="170"/>
+        </g>
+    </g>
+    <g gorn="0.1"  id="silkscreen">
+        <rect x="40" stroke="#ffffff"  fill="none" width="3462" stroke-width="80" y="40" height="9872"/>
+        <path stroke="#ffffff"  fill="none" d="m473,4150 0,-3677 2596,0 0,9076 -2596,0 0,-3677" stroke-width="80"/>
+        <rect x="40" stroke="#ffffff"  fill="none" width="550" stroke-width="80" y="4150" height="1652"/>
+    </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" baseProfile="tiny"  viewBox="0 0 800 348.4167in" version="1.2" width="0.8in" y="0in" height="0.3484167in">
+    <desc>
+        <referenceFile>generic_shrouded_header.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="breadboard">
+        <rect x="0" stroke="none" gorn="0.0.0"  id="bgnd" fill="#1a1a1a" width="800" stroke-width="0" y="0" height="348.4167"/>
+        <rect x="0" stroke="none" gorn="0.0.1"  id="top inset" fill="#2a2a29" width="800" stroke-width="0" y="0" height="38.861"/>
+        <rect x="0" stroke="none" gorn="0.0.2"  id="bottom inset" fill="#595959" width="800" stroke-width="0" y="309.5557" height="38.861"/>
+        <path stroke="none" gorn="0.0.3"  id="left inset" fill="#373737" d="M0,0 0,348.4167 38.861,309.5557 38.861,38.861z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.4"  id="right inset" fill="#474747" d="M800,0 800,348.4167 761.139,309.5557 761.139,38.861z" stroke-width="0"/>
+        <rect x="0" stroke="none" gorn="0.0.5"  id="top border" fill="#404040" width="800" stroke-width="0" y="0" height="24.972"/>
+        <rect x="0" stroke="none" gorn="0.0.6"  id="bottom border" fill="#404040" width="800" stroke-width="0" y="323.4447" height="24.972"/>
+        <rect x="0" stroke="none" gorn="0.0.7"  id="left border" fill="#404040" width="24.972" stroke-width="0" y="0" height="348.4167"/>
+        <rect x="775.028" stroke="none" gorn="0.0.8"  id="right border" fill="#404040" width="24.972" stroke-width="0" y="0" height="348.4167"/>
+        <rect x="173.618" stroke="none" gorn="0.0.9"  id="upper connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="95.972535" height="52.76389"/>
+        <rect x="184.035" stroke="none" gorn="0.0.10"  id="connector9pin" fill="#8c8663" width="31.93056" stroke-width="0" y="106.3892" height="31.93056"/>
+        <rect x="184.035" stroke="none" gorn="0.0.11"  id="upper connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="106.3892" height="7.75"/>
+        <rect x="184.035" stroke="none" gorn="0.0.12"  id="upper connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="130.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.13"  id="upper connector left inset" fill="#9A916C" d="M184.035,106.3892 184.035,138.31976 191.785,130.56976 191.785,114.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.14"  id="upper connector right inset" fill="#9A916C" d="M215.965,106.3892 215.965,138.31976 208.215,130.56976 208.215,114.1392z" stroke-width="0"/>
+        <rect x="273.618" stroke="none" gorn="0.0.15"  id="upper connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="95.972535" height="52.76389"/>
+        <rect x="284.035" stroke="none" gorn="0.0.16"  id="connector8pin" fill="#8c8663" width="31.93056" stroke-width="0" y="106.3892" height="31.93056"/>
+        <rect x="284.035" stroke="none" gorn="0.0.17"  id="upper connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="106.3892" height="7.75"/>
+        <rect x="284.035" stroke="none" gorn="0.0.18"  id="upper connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="130.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.19"  id="upper connector left inset" fill="#9A916C" d="M284.035,106.3892 284.035,138.31976 291.785,130.56976 291.785,114.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.20"  id="upper connector right inset" fill="#9A916C" d="M315.965,106.3892 315.965,138.31976 308.215,130.56976 308.215,114.1392z" stroke-width="0"/>
+        <rect x="373.618" stroke="none" gorn="0.0.21"  id="upper connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="95.972535" height="52.76389"/>
+        <rect x="384.035" stroke="none" gorn="0.0.22"  id="connector7pin" fill="#8c8663" width="31.93056" stroke-width="0" y="106.3892" height="31.93056"/>
+        <rect x="384.035" stroke="none" gorn="0.0.23"  id="upper connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="106.3892" height="7.75"/>
+        <rect x="384.035" stroke="none" gorn="0.0.24"  id="upper connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="130.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.25"  id="upper connector left inset" fill="#9A916C" d="M384.035,106.3892 384.035,138.31976 391.785,130.56976 391.785,114.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.26"  id="upper connector right inset" fill="#9A916C" d="M415.965,106.3892 415.965,138.31976 408.215,130.56976 408.215,114.1392z" stroke-width="0"/>
+        <rect x="473.618" stroke="none" gorn="0.0.27"  id="upper connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="95.972535" height="52.76389"/>
+        <rect x="484.035" stroke="none" gorn="0.0.28"  id="connector6pin" fill="#8c8663" width="31.93056" stroke-width="0" y="106.3892" height="31.93056"/>
+        <rect x="484.035" stroke="none" gorn="0.0.29"  id="upper connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="106.3892" height="7.75"/>
+        <rect x="484.035" stroke="none" gorn="0.0.30"  id="upper connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="130.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.31"  id="upper connector left inset" fill="#9A916C" d="M484.035,106.3892 484.035,138.31976 491.785,130.56976 491.785,114.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.32"  id="upper connector right inset" fill="#9A916C" d="M515.965,106.3892 515.965,138.31976 508.215,130.56976 508.215,114.1392z" stroke-width="0"/>
+        <rect x="573.618" stroke="none" gorn="0.0.33"  id="upper connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="95.972535" height="52.76389"/>
+        <rect x="584.035" stroke="none" gorn="0.0.34"  id="connector5pin" fill="#8c8663" width="31.93056" stroke-width="0" y="106.3892" height="31.93056"/>
+        <rect x="584.035" stroke="none" gorn="0.0.35"  id="upper connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="106.3892" height="7.75"/>
+        <rect x="584.035" stroke="none" gorn="0.0.36"  id="upper connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="130.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.37"  id="upper connector left inset" fill="#9A916C" d="M584.035,106.3892 584.035,138.31976 591.785,130.56976 591.785,114.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.38"  id="upper connector right inset" fill="#9A916C" d="M615.965,106.3892 615.965,138.31976 608.215,130.56976 608.215,114.1392z" stroke-width="0"/>
+        <rect x="173.618" stroke="none" gorn="0.0.39"  id="lower connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="195.972535" height="52.76389"/>
+        <rect x="184.035" stroke="none" gorn="0.0.40"  id="connector0pin" fill="#8c8663" width="31.93056" stroke-width="0" y="206.3892" height="31.93056"/>
+        <rect x="184.035" stroke="none" gorn="0.0.41"  id="lower connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="206.3892" height="7.75"/>
+        <rect x="184.035" stroke="none" gorn="0.0.42"  id="lower connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="230.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.43"  id="lower connector left inset" fill="#9A916C" d="M184.035,206.3892 184.035,238.31976 191.785,230.56976 191.785,214.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.44"  id="lower connector right inset" fill="#9A916C" d="M215.965,206.3892 215.965,238.31976 208.215,230.56976 208.215,214.1392z" stroke-width="0"/>
+        <rect x="273.618" stroke="none" gorn="0.0.45"  id="lower connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="195.972535" height="52.76389"/>
+        <rect x="284.035" stroke="none" gorn="0.0.46"  id="connector1pin" fill="#8c8663" width="31.93056" stroke-width="0" y="206.3892" height="31.93056"/>
+        <rect x="284.035" stroke="none" gorn="0.0.47"  id="lower connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="206.3892" height="7.75"/>
+        <rect x="284.035" stroke="none" gorn="0.0.48"  id="lower connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="230.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.49"  id="lower connector left inset" fill="#9A916C" d="M284.035,206.3892 284.035,238.31976 291.785,230.56976 291.785,214.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.50"  id="lower connector right inset" fill="#9A916C" d="M315.965,206.3892 315.965,238.31976 308.215,230.56976 308.215,214.1392z" stroke-width="0"/>
+        <rect x="373.618" stroke="none" gorn="0.0.51"  id="lower connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="195.972535" height="52.76389"/>
+        <rect x="384.035" stroke="none" gorn="0.0.52"  id="connector2pin" fill="#8c8663" width="31.93056" stroke-width="0" y="206.3892" height="31.93056"/>
+        <rect x="384.035" stroke="none" gorn="0.0.53"  id="lower connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="206.3892" height="7.75"/>
+        <rect x="384.035" stroke="none" gorn="0.0.54"  id="lower connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="230.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.55"  id="lower connector left inset" fill="#9A916C" d="M384.035,206.3892 384.035,238.31976 391.785,230.56976 391.785,214.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.56"  id="lower connector right inset" fill="#9A916C" d="M415.965,206.3892 415.965,238.31976 408.215,230.56976 408.215,214.1392z" stroke-width="0"/>
+        <rect x="473.618" stroke="none" gorn="0.0.57"  id="lower connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="195.972535" height="52.76389"/>
+        <rect x="484.035" stroke="none" gorn="0.0.58"  id="connector3pin" fill="#8c8663" width="31.93056" stroke-width="0" y="206.3892" height="31.93056"/>
+        <rect x="484.035" stroke="none" gorn="0.0.59"  id="lower connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="206.3892" height="7.75"/>
+        <rect x="484.035" stroke="none" gorn="0.0.60"  id="lower connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="230.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.61"  id="lower connector left inset" fill="#9A916C" d="M484.035,206.3892 484.035,238.31976 491.785,230.56976 491.785,214.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.62"  id="lower connector right inset" fill="#9A916C" d="M515.965,206.3892 515.965,238.31976 508.215,230.56976 508.215,214.1392z" stroke-width="0"/>
+        <rect x="573.618" stroke="none" gorn="0.0.63"  id="lower connector bgnd" fill="#141414" width="52.76389" stroke-width="0" y="195.972535" height="52.76389"/>
+        <rect x="584.035" stroke="none" gorn="0.0.64"  id="connector4pin" fill="#8c8663" width="31.93056" stroke-width="0" y="206.3892" height="31.93056"/>
+        <rect x="584.035" stroke="none" gorn="0.0.65"  id="lower connector top inset" fill="#B8AF82" width="31.93056" stroke-width="0" y="206.3892" height="7.75"/>
+        <rect x="584.035" stroke="none" gorn="0.0.66"  id="lower connector bottom inset" fill="#5E5B43" width="31.93056" stroke-width="0" y="230.56976" height="7.75"/>
+        <path stroke="none" gorn="0.0.67"  id="lower connector left inset" fill="#9A916C" d="M584.035,206.3892 584.035,238.31976 591.785,230.56976 591.785,214.1392z" stroke-width="0"/>
+        <path stroke="none" gorn="0.0.68"  id="lower connector right inset" fill="#9A916C" d="M615.965,206.3892 615.965,238.31976 608.215,230.56976 608.215,214.1392z" stroke-width="0"/>
+        <rect x="315.951" stroke="none" gorn="0.0.69"  id="slot" fill="#1a1a1a" width="168.0972" stroke-width="0" y="280.4973" height="67.9194"/>
+    </g>
+</svg>

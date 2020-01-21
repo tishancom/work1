@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3542 5952" version="1.2" y="0in" height="0.5952in" width="0.3542in"  baseProfile="tiny" x="0in">
+    <desc >
+        <referenceFile >shrouded_6_100mil_pcb.svg</referenceFile>
+    </desc>
+    <g  id="copper0" gorn="0.1">
+        <g  id="copper1" gorn="0.1.0">
+            <rect stroke="#ff9400" r="285" y="1691" height="570" width="570"  fill="none" id="square" gorn="0.1.0.0" x="936" stroke-width="170"/>
+            <circle stroke="#ff9400" cx="2221" r="285"  fill="none" id="connector5pin" gorn="0.1.0.1" stroke-width="170" cy="1976"/>
+            <circle stroke="#ff9400" cx="2221" r="285"  fill="none" id="connector4pin" gorn="0.1.0.2" stroke-width="170" cy="2976"/>
+            <circle stroke="#ff9400" cx="2221" r="285"  fill="none" id="connector3pin" gorn="0.1.0.3" stroke-width="170" cy="3976"/>
+            <circle stroke="#ff9400" cx="1221" r="285"  fill="none" id="connector0pin" gorn="0.1.0.4" stroke-width="170" cy="1976"/>
+            <circle stroke="#ff9400" cx="1221" r="285"  fill="none" id="connector1pin" gorn="0.1.0.5" stroke-width="170" cy="2976"/>
+            <circle stroke="#ff9400" cx="1221" r="285"  fill="none" id="connector2pin" gorn="0.1.0.6" stroke-width="170" cy="3976"/>
+        </g>
+    </g>
+    <g  id="silkscreen" gorn="0.2">
+        <rect stroke="#ffffff" y="40" height="5872" width="3462"  fill="none" x="40" stroke-width="80"/>
+        <path stroke="#ffffff" d="m473,2150 0,-1677 2596,0 0,5076 -2596,0 0,-1677"  fill="none" stroke-width="80"/>
+        <rect stroke="#ffffff" y="2150" height="1652" width="550"  fill="none" x="40" stroke-width="80"/>
+    </g>
+</svg>

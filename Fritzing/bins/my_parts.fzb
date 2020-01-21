@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="High_Level_Trigger_8f5681d0f78a57f9d143b9cf8c344265_2" modelIndex="5828" path="C:/Users/Admin/Documents/Fritzing/parts/user/High_Level_Trigger_8f5681d0f78a57f9d143b9cf8c344265_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="REYAX_RYLR890_3ea2d19ae577775776285d2cda1c46b3_2" modelIndex="5830" path="C:/Users/Admin/Documents/Fritzing/parts/user/REYAX_RYLR890_3ea2d19ae577775776285d2cda1c46b3_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="modular_car_c0b9da8d78dd535eb0cd916ec98016f3_2" modelIndex="85412632" path="C:/Users/Admin/Documents/Fritzing/parts/user/modular_car_c0b9da8d78dd535eb0cd916ec98016f3_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Degital_relay_4d56408db0439f067c8c052a863f3a6e_2" modelIndex="85412666" path="C:/Users/Admin/Documents/Fritzing/parts/user/Degital_relay_4d56408db0439f067c8c052a863f3a6e_2.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
